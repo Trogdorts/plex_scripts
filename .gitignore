@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Plex Scripts
+
+# Ignore config files
+*plex_config.json
