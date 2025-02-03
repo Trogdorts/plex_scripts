@@ -174,3 +174,6 @@ cython_debug/
 
 # Ignore config files
 *plex_config.json
+
+
+*dowload_job.json
